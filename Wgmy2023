@@ -1,9 +1,23 @@
 Event Date : 16/12/23 - 17/12/23 
 Organizer : Wargames My
 
-[Go to Section 1](#Web)
+* Web 
+
+1. Warmup 
+
+- Access the url given in the challenge description will bring you to the login page and we need the password to get through of it.
+
+- Without source code, the first thing that come to my mind is inspect the code and find some intresting things. 
+
+- While inspecting, You wil see a few  `javasript` file, within all the file, the `/static/script.min.js` seem intresting since we can detect that there are some functions that has been obsufucated.
+
+- Using online javascript deobfuscate tool to deobsufucate the `javascript`  to make the code more readable. 
+
+- Between the `javascript`function, you will the aunthetication function that also containt the password to login. Yeay !! `Pass : `
 
 
 
 
-## Web 
+
+
+
