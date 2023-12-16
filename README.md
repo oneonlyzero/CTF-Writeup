@@ -1,4 +1,4 @@
 # CTF Various Challenge Writeup, Enjoy !!
 
-1. [Link Text](file/path/to/your/file)
+1. [Link Text](https://github.com/01bst/Ctfwriteup/blob/main/Wgmy2023.md)
 
