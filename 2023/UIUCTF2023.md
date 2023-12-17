@@ -1,6 +1,6 @@
 **Event : Sat, 01 July 2023, 08:00 MYT — Mon, 03 July 2023. Organizer: SIGPwny**
 
-<p>
+<p align="center">
   <img src="https://ctftime.org/media/cache/3f/97/3f97a83ec8cf8013006ebb2342b7e9d3.png" width=300>
 </p>
 
