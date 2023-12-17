@@ -1,3 +1,4 @@
+**Event : Fri, 28 July 2023, 18:00 MYT — Sun, 30 July 2023  Organizer : The Few Chosen**
 
 <p align="center">
    <img src="https://github.com/01bst/CTF-Writeup/assets/103404282/daac4fff-3184-4773-8a36-1de04b24b94e" width=300>
