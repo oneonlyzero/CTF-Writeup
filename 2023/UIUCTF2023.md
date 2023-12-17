@@ -1,7 +1,10 @@
-# UIUctf2023
-UIUctf Osint challenge writeup.
+**Event : Sat, 01 July 2023, 08:00 MYT — Mon, 03 July 2023. Organizer: SIGPwny**
 
-In this respo, im gonna show on how I solve all of the OSINT Challenge in uiuctf2023, Everyone have their own ways to solve it, so here is mine :p
+<p>
+  <img src="https://ctftime.org/media/cache/3f/97/3f97a83ec8cf8013006ebb2342b7e9d3.png" width=300>
+</p>
+
+
 
 **1. Finding Artifact 1**
 
