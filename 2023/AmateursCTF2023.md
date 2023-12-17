@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/01bst/CTF-Writeup/assets/103404282/93f73280-da61-4a54-9204-09d2d62fb8c8" width=200>
+   <img src="https://github.com/01bst/CTF-Writeup/assets/103404282/93f73280-da61-4a54-9204-09d2d62fb8c8" width=300>
 ">
 </p>
 
