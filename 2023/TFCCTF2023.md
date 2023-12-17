@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="https://github.com/01bst/TFCCTF2023/assets/103404282/65b29fdf-8943-43a9-bb5f-a0c83ddb9655" width=300>
+   <img src="https://github.com/01bst/CTF-Writeup/assets/103404282/daac4fff-3184-4773-8a36-1de04b24b94e" width=300>
 </p>
 
 **[Category] Forensic**
