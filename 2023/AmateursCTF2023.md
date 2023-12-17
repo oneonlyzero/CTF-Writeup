@@ -6,7 +6,7 @@
 
 Straight to the point writeup for another OSINT,Forensic, Web, and Misc challenge solved : By Zer00ne(Me) 
 
-**Category: OSINT**
+**[Category] OSINT**
 
 **1. Gitint 5e**
 
@@ -85,7 +85,7 @@ Flag : `amateursCTF{p0int_m4ster}`
 Flag : `amateursCTF{arch1v3d_r1ght_b3f0r3_th3_start}`.
 
 
-**Category : Forensic**
+**[Category] Forensic**
 
 **1. Painfully Deep Flag**
 
@@ -113,7 +113,7 @@ Flag : `amateursCTF{0ut_0f_b0unds}`
 Flag : `amateursCTF{z1PP3d_in5id3_4_laY3r_0f_Zips}`
 
 
-**Category : Web**
+**[Category] Web**
 
 **1. Latek**
 
@@ -129,7 +129,7 @@ Flag : `amateursCTF{z1PP3d_in5id3_4_laY3r_0f_Zips}`
 
 Flag : `amateursCTF{th3_l0w_budg3t_and_n0_1nstanc3ing_caus3d_us_t0_n0t_all0w_rc3_sadly}`
 
-**Category : Misc**
+**[Category] Misc**
 
 **Insanity Check**
 
