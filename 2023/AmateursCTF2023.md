@@ -1,10 +1,10 @@
+**Event : Sat, 15 July 2023, 09:00 MYT — Wed, 19 July 2023 | Oragnizer : les amateurs de la competition ctf**
+
+
 <p align="center">
    <img src="https://github.com/01bst/CTF-Writeup/assets/103404282/93f73280-da61-4a54-9204-09d2d62fb8c8" width=300>
 ">
 </p>
-
-
-Straight to the point writeup for another OSINT,Forensic, Web, and Misc challenge solved : By Zer00ne(Me) 
 
 **[Category] OSINT**
 
