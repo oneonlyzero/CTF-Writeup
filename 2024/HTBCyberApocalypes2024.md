@@ -2,5 +2,5 @@
 
 
 <p align="center">
-   <img src="https://www.hackthebox.com/images/landingv3/og/og-cyber-apocalypse-ctf-2024.jpg" width=300>
+   <img src="https://www.hackthebox.com/images/landingv3/og/og-cyber-apocalypse-ctf-2024.jpg" width=450>
 </p>
