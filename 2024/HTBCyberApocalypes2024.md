@@ -1,4 +1,4 @@
-**Event :Sat, 06 Jan. 2024, 08:00 MYT — Mon, 08 Jan. 2024 | Oragnizer : IrisSec**
+**Event :  Saturday, 09 March 2024, 09:00 PM MYT — Wednesday, 13 March 2024, 08:59 PM MYT | Oragnizer : Hack The Box**
 
 
 <p align="center">
