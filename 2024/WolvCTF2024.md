@@ -38,4 +38,7 @@
 **4. WOLPHV IV: d4wgbyte262**
 
 - Inside the discord conversation, the user `d4wgbyte262` mentioned about his dog, and a little bit information of his house location `i live the closest to a fire station out of all my friends who are neighbors they dont understand my pain - d4wgbyte262 `
-- 
+- Straight to the point after a few time searching, you will found an account with username `d4wgbyte262` on `flickr` a website to post image with a bunch of dog images, [Here](https://www.flickr.com/photos/200261418@N03/albums/)
+- Checking each one of the image will also show the location of the image with the lang and long.
+- Since there are so many images, you have to look and find which one is the nearest with a fire station, just like he mentioned in the discord.
+- Take the long,lang and wrap it in the flag format `wctf{xxxx,xxxx}`
