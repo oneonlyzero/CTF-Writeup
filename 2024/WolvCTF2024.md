@@ -60,3 +60,10 @@
 - The bio of the instagram account stated that `hacker from Collingwood Ontario`.
 - Using the hint or details we got from the searching to find the exact location `(Hint : pizza subway or mcdonalds theyre all so close to me, bus stop outside my apartment,  from Collingwood Ontario)`.
 - Find the exact long and lang of the location and wrap it in the flag format : `wctf{xxxxx,xxxxx}`
+
+
+**Category : Forensic (ACE!!! All solved)**
+
+**1. 
+
+
