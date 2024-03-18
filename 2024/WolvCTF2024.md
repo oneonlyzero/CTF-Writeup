@@ -4,5 +4,5 @@
 **Appreciation: Congrats To The secure place 23th from 300++ teams**
 
 <p align="center">
-   <img src="https://miro.medium.com/v2/resize:fit:300/format:webp/0*QjGHN8bu9hZIaz-n" width=450>
+   <img src="https://miro.medium.com/v2/resize:fit:300/format:webp/0*QjGHN8bu9hZIaz-n" width=200>
 </p>
