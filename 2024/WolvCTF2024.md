@@ -16,7 +16,7 @@
 - Take a look to all of the reply/comment inside the post you will notice the account with the username `Joe Osint` which seem to look like he commenting some `base64` text. [Here](https://twitter.com/JoeOsint__)
 - Take the `base64` and decode it. you will successfully obtained the flag :).
 
-**WOLPHV II: Infiltrate**
+**2. WOLPHV II: Infiltrate**
 
 - Try to find others social media related to the `Wolvph` group beside their official `X` account and find one account related to them on `Facebook`. [Here](https://www.facebook.com/groups/921721029413388/?hoisted_section_header_type=recently_seen&multi_permalinks=921722342746590)
 - In the `Facebook` account, you will find a video post, seem normal in the beginning, but at the end of the video, you can see all of the search tab on the top of browser right after the person close the slide.
