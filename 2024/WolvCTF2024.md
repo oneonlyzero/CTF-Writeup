@@ -1,6 +1,6 @@
 **Event :  Saturday, 16 March 2024, 07:00 AM MYT — Monday, 18 March 2024, 07:00 AM MYT | Oragnizer : WolvSec**<br>
 
-**Appreciation: Congrats To The team for secure place 23th from 300++ teams**
+**Appreciation: Congrats To The team for secure 23th from 300++ teams**
 
 
 <p align="center">
