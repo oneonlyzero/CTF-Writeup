@@ -1,6 +1,6 @@
 **Event :  Saturday, 16 March 2024, 07:00 AM MYT — Monday, 18 March 2024, 07:00 AM MYT | Oragnizer : WolvSec**<br>
 
-**Appreciation: Congrats To The team for secure 23th from 300++ teams**
+**Appreciation: Congrats To The team for secure 23th from 300++ teams, here i share a few writeup as a proof of the teamwork**
 
 
 <p align="center">
@@ -24,3 +24,18 @@
 - At first, if you directly just copied 100% like in the search, you go to the discord `unable to find channel page`.
 - Just change the `.com` of the link to `.gg` and you will be directed to a discord channel `Wolpvh`
 - Look at the top at the `General` chat and you will obtained the flag.
+
+**3. WOLPHV III: p1nesh4dow48**
+
+- You will get an image of an apartment between the conversation.
+- First, i enchance the image using `Ai image Enhancer` to make the imaage more cleaer.
+- Then try to look any particular on the image that will help to make the searching scope became smaller.
+- We obtained a few information in the image such as : The parking lot sign `Pine Ridge Visitor Parking`, The car driver on the left side (probally USA), And the apartment.
+- Using a few osint tool `(google image, google maps, search engine)  and information gathered)`
+- You will find the location of the apartment which is `Pine Ridge Apartment` or `Marquette's Affordable Housing` located at  `Marquette Michigan`
+- The flag, required you to find the exact long,lang of the image location and wrap it in the flag format : `wctf{xxxx,xxxx}`
+
+**4. WOLPHV IV: d4wgbyte262**
+
+- Inside the discord conversation, the user `d4wgbyte262` mentioned about his dog, and a little bit information of his house location `i live the closest to a fire station out of all my friends who are neighbors they dont understand my pain - d4wgbyte262 `
+- 
