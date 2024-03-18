@@ -12,4 +12,4 @@
 
 **1. WOLPHV I: Reconnaissance**
 
-- Searching for "Wolphv Ransomware Group" on search engine will lead you to the the `X` post from the account `FalconFeeds.io`. [Here("https://twitter.com/FalconFeedsio/status/1706989111414849989")]
+- Searching for "Wolphv Ransomware Group" on search engine will lead you to the the `X` post from the account `FalconFeeds.io`. [Here](https://twitter.com/FalconFeedsio/status/1706989111414849989)
