@@ -50,11 +50,25 @@
 
 **3. WOLPHV III: p1nesh4dow48**
 
+<p align="center">
+   <img src="https://github.com/ItsZer01/CTF-Writeup/assets/103404282/7842a72b-36f7-4b44-8d6b-57e369ea2f5a" width=400>
+</p>
+
 - You will get an image of an apartment between the conversation.
 - First, i enchance the image using `Ai image Enhancer` to make the imaage more cleaer.
+
+<p align="center">
+   <img src="https://github.com/ItsZer01/CTF-Writeup/assets/103404282/0b163cba-cb7e-4311-8ee9-6199b3aedf71" width=400>
+</p>
+
 - Then try to look any particular on the image that will help to make the searching scope became smaller.
 - We obtained a few information in the image such as : The parking lot sign `Pine Ridge Visitor Parking`, The car driver on the left side (probally USA), And the apartment.
 - Using a few osint tool `(google image, google maps, search engine)  and information gathered)`
+
+<p align="center">
+   <img src="https://github.com/ItsZer01/CTF-Writeup/assets/103404282/072a40c2-7e67-465d-8a0a-2ab0e19f97c7" width=400>
+</p>
+
 - You will find the location of the apartment which is `Pine Ridge Apartment` or `Marquette's Affordable Housing` located at  `Marquette Michigan`
 - The flag, required you to find the exact long,lang of the image location and wrap it in the flag format : `wctf{xxxx,xxxx}`
 
