@@ -1,8 +1,6 @@
 **Event :  Saturday, 16 March 2024, 07:00 AM MYT — Monday, 18 March 2024, 07:00 AM MYT | Oragnizer : WolvSec**<br>
 
-**Appreciation: Congrats To The team for secure 23th from 300++ teams, here i share a few writeup as a proof of the teamwork**
-
-
+**Appreciation: Congrats To The team for secure 23th from 300++ teams, Here i would like to share the OSINT Chall from the CTF mentioned.**
 
 
 <p align="center">
@@ -60,16 +58,3 @@
 - The bio of the instagram account stated that `hacker from Collingwood Ontario`.
 - Using the hint or details we got from the searching to find the exact location `(Hint : pizza subway or mcdonalds theyre all so close to me, bus stop outside my apartment,  from Collingwood Ontario)`.
 - Find the exact long and lang of the location and wrap it in the flag format : `wctf{xxxxx,xxxxx}`
-
-
-**Category : Forensic (ACE!!! All solved)**
-
-**1. Eternally Pwned: Infiltration**
-
-- The chall give us `pcap` file, as usual we have open it using `wireshark` tool and analyzing it.
-- My routine when got a `pcap` file to `strings` it.
-- After we use `strings` command on the `pcap` file, it will looks for printable strings in a file.
-- From the printable strings output from the file we can start to analyze it by searching for basic things, such as `Encode` text (Base64 etc)
-- In this cases, during the strings analyzing, i can see the 3 different of `base64` text, sort them based on which come first and `decode` it to obtain the flag. 
-
-
