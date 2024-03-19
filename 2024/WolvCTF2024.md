@@ -64,6 +64,12 @@
 
 **Category : Forensic (ACE!!! All solved)**
 
-**1. 
+**1. Eternally Pwned: Infiltration**
+
+- The chall give us `pcap` file, as usual we have open it using `wireshark` tool and analyzing it.
+- My routine when got a `pcap` file to `strings` it.
+- After we use `strings` command on the `pcap` file, it will looks for printable strings in a file.
+- From the printable strings output from the file we can start to analyze it by searching for basic things, such as `Encode` text (Base64 etc)
+- In this cases, during the strings analyzing, i can see the 3 different of `base64` text, sort them based on which come first and `decode` it to obtain the flag. 
 
 
