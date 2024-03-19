@@ -27,8 +27,22 @@
 
 **2. WOLPHV II: Infiltrate**
 
+<p align="center">
+   <img src="https://github.com/ItsZer01/CTF-Writeup/assets/103404282/92050bc5-b92a-4d01-8e14-c48056f00406" width=400>
+</p>
+
 - Try to find others social media related to the `Wolvph` group beside their official `X` account and find one account related to them on `Facebook`. [Here](https://www.facebook.com/groups/921721029413388/?hoisted_section_header_type=recently_seen&multi_permalinks=921722342746590)
+
+<p align="center">
+   <img src="https://github.com/ItsZer01/CTF-Writeup/assets/103404282/aa03723a-8c33-4506-98bc-28a18f1f6826" width=400>
+</p>
+
 - In the `Facebook` account, you will find a video post, seem normal in the beginning, but at the end of the video, you can see all of the search tab on the top of browser right after the person close the slide.
+
+<p align="center">
+   <img src="https://github.com/ItsZer01/CTF-Writeup/assets/103404282/c9b49905-1569-4624-b282-4cd0347e1568" width=400>
+</p>
+
 - Looking at the search tab, you find a few searching for example `Funny cat`, `How to hack`, etc. but the one that caught my eye is the discord search : `discord.com/UbeJPeBT`.
 - At first, if you directly just copied 100% like in the search, you go to the discord `unable to find channel page`.
 - Just change the `.com` of the link to `.gg` and you will be directed to a discord channel `Wolpvh`
