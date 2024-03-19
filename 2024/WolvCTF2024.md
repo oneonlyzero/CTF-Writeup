@@ -13,7 +13,8 @@
 **1. WOLPHV I: Reconnaissance**
 
 <p align="center">
-   <img src="https://miro.medium.com/v2/resize:fit:300/format:webp/0*QjGHN8bu9hZIaz-n](https://github.com/ItsZer01/CTF-Writeup/assets/103404282/ec74aa5d-f5f6-4c45-bdce-c87f52f703ed" width=200>
+   <img src="![image](https://github.com/ItsZer01/CTF-Writeup/assets/103404282/194a5356-4594-4035-9f21-2b715558877c)
+" width=200>
 </p>
 
 - Searching for "Wolphv Ransomware Group" on search engine will lead you to the the `X` post from the account `FalconFeeds.io`. [Here](https://twitter.com/FalconFeedsio/status/1706989111414849989)
