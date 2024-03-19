@@ -12,6 +12,9 @@
 
 **1. WOLPHV I: Reconnaissance**
 
+<p align="center">
+![image](https://github.com/ItsZer01/CTF-Writeup/assets/103404282/ec74aa5d-f5f6-4c45-bdce-c87f52f703ed)
+</p>
 - Searching for "Wolphv Ransomware Group" on search engine will lead you to the the `X` post from the account `FalconFeeds.io`. [Here](https://twitter.com/FalconFeedsio/status/1706989111414849989)
 - Take a look to all of the reply/comment inside the post you will notice the account with the username `Joe Osint` which seem to look like he commenting some `base64` text. [Here](https://twitter.com/JoeOsint__)
 - Take the `base64` and decode it. you will successfully obtained the flag :).
