@@ -38,6 +38,23 @@
 <img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/3d1ff4a4-dbbe-41cd-a8f0-c5082dec2eba" width=500>
 </p>
 
+* This challenge is related to the `Hip With The Youth` challenge, as you notice on the `Thread` account bio, you got a `Linkedin` account, let visit it.
+
+<p align="center" width=300>
+<img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/c9cd2f2a-9b23-4c5e-b889-7749aa600656" width=500>
+</p>
+
+* We search for everything in the `Linkedin` accoount, on the account `Skill` section, you notice that one of the skill have `1 Endorsements`.
+
+<p align="center" width=300>
+<img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/62af4c88-5110-4aa4-8706-d10475978749" width=500>
+</p>
+
+* Visit the `Endorsement` profile, and you will obtain the Flag in the `About` section.
+
+<p align="center" width=300>
+<img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/850e1197-2105-413a-a30c-c35679d5f064" width=500>
+</p>
 
 
 **3. The Weakest Link (Points: 400 , solves: 136)**
