@@ -10,7 +10,7 @@
 **1. Hip With The Youth (Points: 81 , solves: 548)** 
 
 <p align="center" width=300>
-![Screenshot 2024-06-30 223907](https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/f2e8f5b8-e739-468a-92dd-87b351dd07c3)
+<img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/f2e8f5b8-e739-468a-92dd-87b351dd07c3" width=300>
 </p>
 
 **2. An Unalikely Partnership  (Points: 102 , solves: 491)**
