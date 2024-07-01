@@ -7,9 +7,22 @@
 </p>
 
 
-**1. Hip With The Youth (Points: 81 , solves: 548)**
+**1. Hip With The Youth (Points: 81 , solves: 548)** 
+![Screenshot 2024-06-30 223907](https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/f2e8f5b8-e739-468a-92dd-87b351dd07c3)
+
 **2. An Unalikely Partnership  (Points: 102 , solves: 491)**
-**3. Hip With The Youth (Points: 81 , solves: 548)**
-**4. Hip With The Youth (Points: 81 , solves: 548)**
-**5. Hip With The Youth (Points: 81 , solves: 548)**
-**6. Hip With The Youth (Points: 81 , solves: 548)**
+![Screenshot 2024-06-30 223859](https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/3d1ff4a4-dbbe-41cd-a8f0-c5082dec2eba)
+
+**3. The Weakest Link (Points: 400 , solves: 136)**
+![Screenshot 2024-06-30 223849](https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/359e47ef-0a46-449b-92ac-28b3bb24bd7b)
+
+**4. Night (Points: 127, solves: 440)**
+![Screenshot 2024-06-30 223916](https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/b7236932-4bf6-4b37-b857-9a9143f1579e)
+
+**5. New Dallas (Points: 476, solves: 40)**
+![Screenshot 2024-06-30 223924](https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/72047f7e-4434-47e6-bd70-b36439267dfe)
+
+**6. Chunky Boi (Points: 329, solves: 208)**
+![Screenshot 2024-06-30 223932](https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/0d452bf8-d49a-459c-8b67-82d02d5e2097)
+
+
