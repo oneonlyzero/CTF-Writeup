@@ -1,4 +1,4 @@
-**Event :Sat, 29 June 2024, 00:00 UTC — Mon, 01 July 2024, 00:00 UTC | Oragnizer : [SIGpwny](https://sigpwny.com/)**
+**Event: Sat, 29 June 2024, 08:00 UTC — Mon, 01 July 2024, 08:00 UTC | Oragnizer : [SIGpwny](https://sigpwny.com/)**
 
 
 <p align="center">
