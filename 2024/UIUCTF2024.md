@@ -20,6 +20,19 @@
 <img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/4c509a1e-887f-4be4-9b54-d421d0867654" width=500>
 </p>
 
+* Viewing the posts will result nothing, so if we kept looking you will saw the `Thread` account linked to the `Instagram` account on the profile bio, let visit it.
+
+<p align="center" width=300>
+<img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/8a69dc81-0bad-4727-88c5-a7b60bebf12c" width=500>
+</p>
+
+* Viewing the first thread in the `Thread` account will let you to the flag.
+
+<p align="center" width=300>
+<img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/faba13dd-7def-4780-9fea-47e312e9ac4a" width=500>
+</p>
+
+
 **2. An Unalikely Partnership  (Points: 102 , solves: 491)**
 <p align="center" width=300>
 <img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/3d1ff4a4-dbbe-41cd-a8f0-c5082dec2eba" width=500>
