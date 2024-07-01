@@ -14,6 +14,12 @@
 <img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/f2e8f5b8-e739-468a-92dd-87b351dd07c3" width=500>
 </p>
 
+** * This one quite easy to solve :). The challenge has mentioned 2 things that we can take to start the searching which is `The Long Island Subwway Authority (LISA)` and `Instagram`, Jump to  `Instagram` and find things that related to the `LISA`. And you will find this account: 
+
+<p align="center" width=300>
+<img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/4c509a1e-887f-4be4-9b54-d421d0867654" width=500>
+</p>
+
 **2. An Unalikely Partnership  (Points: 102 , solves: 491)**
 <p align="center" width=300>
 <img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/3d1ff4a4-dbbe-41cd-a8f0-c5082dec2eba" width=500>
