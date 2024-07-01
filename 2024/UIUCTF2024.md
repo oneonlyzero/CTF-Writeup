@@ -18,6 +18,8 @@
 
 **4. Night (Points: 127, solves: 440)**
 ![Screenshot 2024-06-30 223916](https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/b7236932-4bf6-4b37-b857-9a9143f1579e)
+![chal (3)](https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/efeb9f23-9920-4e33-99ba-3e11ed9b3a64)
+
 
 **5. New Dallas (Points: 476, solves: 40)**
 ![Screenshot 2024-06-30 223924](https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/72047f7e-4434-47e6-bd70-b36439267dfe)
