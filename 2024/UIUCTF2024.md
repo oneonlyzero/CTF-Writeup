@@ -2,5 +2,5 @@
 
 
 <p align="center">
-   <img src="[https://ctftime.org/media/team/iris-zoomed.jpg](https://ctftime.org/media/cache/8f/44/8f44cc2cb38ce3a8be121f45d521d902.png)" width=300>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToidYwxY-F5UAqvWloL5-YNhiD_zz4RwH1Tg&s" width=300>
 </p>
