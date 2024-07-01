@@ -62,6 +62,30 @@
 <img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/359e47ef-0a46-449b-92ac-28b3bb24bd7b" width=500>
 </p>
 
+* This challenge is related to the 1st and 2nd challenge, on the `Endorsement LinkedIn` account, view the `contact info`, you wull find a `URL` that will lead you to her `Spotify` account.
+
+<p align="center" width=300>
+<img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/ccd6d271-881d-4f21-8966-2cbe818f6879" width=500>
+</p>
+
+* To solve this challenge, you need to use one of the features in the `Spotify` itself. Have you ever heard `Friend Activity` features. It is a feature where you can view what song your friend currently listeningt to.
+
+<p align="center" width=300>
+<img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/00053d32-a4af-4c21-95ae-c2d2ce4f6360" width=500>
+</p>
+
+* To use this features, follow the `Spotify` account, at the top right you will see `3 person icon` which is the `View Friend Activity` features. Click it and you can see the current song of the `Spotify` profile listening to.
+
+<p align="center" width=300>
+<img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/ed4b9eb2-23c4-4382-937c-fb75477c32c1" width=500>
+</p>
+
+* The song is in a playlist called `Song For Train Lovers`, click the playlist and you will obtained the Flag.
+
+<p align="center" width=300>
+<img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/d37d167c-6003-452f-93b6-1542018fce24" width=500>
+</p>
+
 
 **4. Night (Points: 127, solves: 440)**
 <p align="center" width=300>
