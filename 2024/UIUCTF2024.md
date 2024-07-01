@@ -8,7 +8,10 @@
 
 
 **1. Hip With The Youth (Points: 81 , solves: 548)** 
+
+<p align="center" width=300>
 ![Screenshot 2024-06-30 223907](https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/f2e8f5b8-e739-468a-92dd-87b351dd07c3)
+</p>
 
 **2. An Unalikely Partnership  (Points: 102 , solves: 491)**
 ![Screenshot 2024-06-30 223859](https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/3d1ff4a4-dbbe-41cd-a8f0-c5082dec2eba)
