@@ -92,6 +92,14 @@
 <img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/b7236932-4bf6-4b37-b857-9a9143f1579e" width=500>
 </p>
 
+* Here is the starting of Geo kind OSINT, download the file attach on the challenge `chall.jpg`, and view it. You will get this image:
+
+<p align="center" width=300>
+<img src="https://github.com/oneonlyzero/CTF-Writeup/assets/103404282/0e103def-11fe-4e39-8cc7-28b9f8570a94" width=500>
+</p>
+
+* Tips on solving this kind of chall is to use everything in the image such as `Building`, `Signboard` etc. So first, we try to find the `Building` from the image, 
+
 
 
 **5. New Dallas (Points: 476, solves: 40)**
