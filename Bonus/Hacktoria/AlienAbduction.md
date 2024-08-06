@@ -2,7 +2,8 @@
   Alien Abduction - Easy
 </h1>
 
-**Badge**
+**Badge** 
+> Zeroo
 
 <p align="center" width=300>
   <img src="https://github.com/user-attachments/assets/30d86f83-4901-44a7-aee6-5ca2a9047e59" width=300>
@@ -11,7 +12,8 @@
 
 **Description [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1gy46_pDDwaDI_E-HXCobdztFomnzC-kX)]**
 
-`We have an urgent case on our hands for the US government. Our allies at the CIA need us to cover up an alien abduction. On the 2nd of April near Broomfield Colorado, a research craft from the Krohndahkyr took several animals and plants.
+```
+We have an urgent case on our hands for the US government. Our allies at the CIA need us to cover up an alien abduction. On the 2nd of April near Broomfield Colorado, a research craft from the Krohndahkyr took several animals and plants.
 
 Although no humans were taken this time, some residents have made photo’s and possibly video of the incident. It’s imperative that we find the original source where this sighting was reported. The CIA wants a cleanup of all the material. So it’s our job to go and find it for them.
 
@@ -26,4 +28,4 @@ Duration: 10 minutes
 Characteristics: There were lights on the object, The object changed color
 
 As always, Special Agent K. The Contract is yours, if you choose to accept.`
-
+```
