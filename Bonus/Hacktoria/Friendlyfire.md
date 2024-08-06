@@ -50,7 +50,7 @@ Answer sample: indonesia-cougar-mk-8c
 
 3. In the wikipedia website, you can see the description about the image ("Description English: IDF Merkava Mk 4 main battle tank")
 
-4. At first i just try to use it as the answer but wrong, try to look but what i wrong, i must be missing sometime from the truth answer. Try to search the tank wikipedia, and inside the wikipedia, we get the full name of the tank which is "Merkava mk 4m"
-Answer: FREE-FREE-PALESTINE-ONLY-PALESTINE.
+4. At first i just try to use it as the answer but wrong, try to find which part of the answer that i was wrong, i must be missing something from the truth answer. Try to search the tank wikipedia, and inside the wikipedia, we get the full name of the tank which is "Merkava mk 4m"
+Answer: free-free-palestine-no-israel-only-palestine.
 
 ```
