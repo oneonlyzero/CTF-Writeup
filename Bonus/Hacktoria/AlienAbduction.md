@@ -2,6 +2,8 @@
   Alien Abduction - Easy
 </h1>
 
-<p>
-  *Badge*
+**Badge**
+
+<p align="center">
+  <img 
 </p>
