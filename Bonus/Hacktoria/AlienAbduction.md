@@ -9,7 +9,7 @@
 </p>
 
 
-**Description [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1gy46_pDDwaDI_E-HXCobdztFomnzC-kX)**
+**Description [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1gy46_pDDwaDI_E-HXCobdztFomnzC-kX)]**
 
 `We have an urgent case on our hands for the US government. Our allies at the CIA need us to cover up an alien abduction. On the 2nd of April near Broomfield Colorado, a research craft from the Krohndahkyr took several animals and plants.
 
