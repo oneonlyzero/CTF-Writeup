@@ -9,4 +9,21 @@
 </p>
 
 
+**Description [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1gy46_pDDwaDI_E-HXCobdztFomnzC-kX)**
+
+`We have an urgent case on our hands for the US government. Our allies at the CIA need us to cover up an alien abduction. On the 2nd of April near Broomfield Colorado, a research craft from the Krohndahkyr took several animals and plants.
+
+Although no humans were taken this time, some residents have made photo’s and possibly video of the incident. It’s imperative that we find the original source where this sighting was reported. The CIA wants a cleanup of all the material. So it’s our job to go and find it for them.
+
+Your task is to find the original URL where the following report and photo were posted:
+
+Occurred : 4/2/2023 22:00 (Entered as : 04/02/2023 10:00 PM)
+Reported: 4/3/2023 8:25:51 PM 20:25
+Posted: 4/9/2023
+Location: Broomfield, CO
+Shape: Circle
+Duration: 10 minutes
+Characteristics: There were lights on the object, The object changed color
+
+As always, Special Agent K. The Contract is yours, if you choose to accept.`
 
