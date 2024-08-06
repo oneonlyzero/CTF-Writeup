@@ -10,7 +10,7 @@
 </p>
 
 
-**Description [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1gy46_pDDwaDI_E-HXCobdztFomnzC-kX)]**
+**Mission [Get full Materials at [G Drive](https://drive.google.com/drive/folders/1gy46_pDDwaDI_E-HXCobdztFomnzC-kX)]**
 
 ```
 We have an urgent case on our hands for the US government. Our allies at the CIA need us to cover up an alien abduction. On the 2nd of April near Broomfield Colorado, a research craft from the Krohndahkyr took several animals and plants.
@@ -29,3 +29,27 @@ Characteristics: There were lights on the object, The object changed color
 
 As always, Special Agent K. The Contract is yours, if you choose to accept.`
 ```
+
+**Answer Instruction**
+
+```
+Full URL of the article
+
+Sample: https://fullurl/category/article.html
+```
+
+**Solution**
+
+```
+Fyi i love ufo and all of this sort of alien things (wish could see one)
+
+1. The mission ask us to find the URL report that containe the same image (provided in the material)
+
+2. i use a website that store all of the UFO reports from all over the world called `nuforc.org (National UFO Reporting Center`)
+
+3. The mission stated the location where the reports or the sight happen, so we gonna find record on the place by going to this section `https://nuforc.org/ndx/?id=loc` and 
+find the report in CO.
+
+4. Woah that was a lot of reports there, let use some of the info gave to us to find the exact report we looking for, here i use the location to filter every report on the location of `Broomfield` and use crtl + F function with the occured date `04/02/2023 22:00`.
+
+5. And yup we found the exact report that contain the same photo. Answer : https://nuforc.org/sighting/?id=175200
