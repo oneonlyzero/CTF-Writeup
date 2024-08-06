@@ -1,3 +1,3 @@
-<h1 styles="align-item:center;">
+<h1>
   Alien Abduction
 </h1>
