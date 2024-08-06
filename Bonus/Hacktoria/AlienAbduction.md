@@ -3,5 +3,5 @@
 </h1>
 
 <p styles="align-item:center;">
-  **Badge**
+  *Badge*
 </p>
