@@ -6,7 +6,7 @@
 > Zeroo
 
 <p align="center" width=300>
-  <img src="https://github.com/user-attachments/assets/30d86f83-4901-44a7-aee6-5ca2a9047e59" width=300>
+  <img src="https://github.com/user-attachments/assets/13bdf5fb-c6f9-4fc2-b1a4-772e1b49958a" width=300>
 </p>
 
 
